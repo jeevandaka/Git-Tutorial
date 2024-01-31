@@ -22,3 +22,7 @@
 
 12. Diff between git rm and it restore
 ans: if you want to move the whole file back to the untracked state, then we do git rm, otherwise if we jest want to changes to be moved in working area or stagin area then we git reatore.
+ 
+13.  `git diff commit1 commit2` -> gives the difference of all file changes between two commits 
+
+14  `git commit -m "<your commit message>"` -> If we want to avoid opening a text editor like vim/nano to add commit message we can use this follwing command 
