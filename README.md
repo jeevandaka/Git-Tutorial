@@ -25,4 +25,4 @@ ans: if you want to move the whole file back to the untracked state, then we do 
  
 13.  `git diff commit1 commit2` -> gives the difference of all file changes between two commits 
 
-14  `git commit -m "<your commit message>"` -> If we want to avoid opening a text editor like vim/nano to add commit message we can use this follwing command 
+14.  `git commit -m "<your commit message>"` -> If we want to avoid opening a text editor like vim/nano to add commit message we can use this follwing command 
