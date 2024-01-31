@@ -1,1 +1,1 @@
-ruf data.
+ruf data
