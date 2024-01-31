@@ -17,3 +17,8 @@
 9.  `git log` -> list downs all the commits of the repository. If you want to exit out of git log prompt press `q`.
 
 10.  `git restore <file>` -> it removes all files changes from the staging area to be committed. this can be useful, if we did some dirty piece of code and now no more want it. Instead of deleting every change line by line, we can restore it or you can say restore last clean version of the file.
+
+11.  `git restore --staged <file>` -> it removes file from changes from staging area to working area.this only works if changes are in your staging area.
+
+12. Diff between git rm and it restore
+ans: if you want to move the whole file back to the untracked state, then we do git rm, otherwise if we jest want to changes to be moved in working area or stagin area then we git reatore.
