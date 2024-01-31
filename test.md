@@ -1,3 +1,1 @@
-I am eager to join HotWax's engineering team due to my profound interest in software development. HotWax's reputation for innovation and commitment to pushing technological boundaries aligns with my goals. I am excited about the dynamic and collaborative environment, where I can contribute my skills, learn from experienced professionals, and be part of a team that consistently delivers cutting-edge solutions in e-commerce and ERP.
 
-In conclusion, I am excited about the prospect of joining HotWax and contributing to the continued success and innovation of the engineering team. I am confident that my dedication to software development and my commitment to excellence align well with the values and goals of HotWax.
