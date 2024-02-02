@@ -52,3 +52,7 @@ Note : The name of the remote connection is always used to establish communicati
     - git commit
     - git pull
     - git push
+
+23.  `git checkout -b <branch name>` : used to creat new branch pointer.
+
+24.  `git checkout <branch name>` : used to swich on perticular branch.
