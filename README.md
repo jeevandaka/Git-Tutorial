@@ -31,7 +31,7 @@ ans: if you want to move the whole file back to the untracked state, then we do 
 
 16.  Remote connection -> It helps you to link two git repositories for uploading and downloading changes from each otherwise.
 
-17.  `git remode add <name of remote> <link of the remote>` -> this command helps us to add a new link to the remote repo and give a name to it.
+17.  `git remote add <name of remote> <link of the remote>` -> this command helps us to add a new link to the remote repo and give a name to it.
 
 18.  `git remote rm <name of remote>` -> this command deletes a remote connection.
 
